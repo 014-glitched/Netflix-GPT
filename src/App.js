@@ -1,10 +1,9 @@
-import './App.css';
+
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="text-teal-700 text-3xl font-bold">
-        Namaste from Abhyudai Srivastava.
-    </div>
+    <Body/>
   );
 }
 
