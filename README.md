@@ -29,6 +29,13 @@
 - Update Store with Traiiler Video Data
 - Embedded the youtube video and make it autoplay and mute
 - Added Tailwind Classes 
+- Build Movie List
+- Build Movie Card
+- TMDB image CDN URL
+- Made the Browse page amazing using Tailwind CSS
+- Created usePopularMovies Custom hook
+- Created useUpcomingMovies Custom hook
+- Created useTopRatedMovies Custom hook
 
 # Features
 
