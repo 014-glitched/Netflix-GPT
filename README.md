@@ -36,6 +36,10 @@
 - Created usePopularMovies Custom hook
 - Created useUpcomingMovies Custom hook
 - Created useTopRatedMovies Custom hook
+- GPT Search Feature
+- GPT Search Bar
+- Multi Language Feature in our app
+
 
 # Features
 
